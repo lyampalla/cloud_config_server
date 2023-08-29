@@ -1,5 +1,5 @@
 microservice:
-  payment-service:
+  order-service:
     endpoints:
       endpoint:
         uri: http://localhost:9192/orders
