@@ -2,4 +2,4 @@ microservice:
   order-service:
     endpoints:
       endpoint:
-        uri: http://localhost:9195/orders
+        uri: http://localhost:9192/orders
