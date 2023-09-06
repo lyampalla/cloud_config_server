@@ -1,5 +1,5 @@
 microservice:
-  order-service:
+  catalog-service:
     endpoints:
       endpoint:
         uri: http://CATALOG_SERVICE/orders
