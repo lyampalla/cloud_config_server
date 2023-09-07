@@ -2,4 +2,4 @@ microservice:
   catalog-service:
     endpoints:
       endpoint:
-        uri: http://CATALOG-SERVICE/catalogService/orders
+        uri: http://CATALOG-SERVICE/catalog-service/orders
